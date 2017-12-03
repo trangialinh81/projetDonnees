@@ -54,11 +54,40 @@ std(Xs);
 % Analyse de donnees
  P = Xs*E*D^(-1/2);
  
-plot(P(:,1),P(:,2),'.');
-%text(P(:,1),P(:,2),Xs);    
+ F = E*D^(-1/2);
+%visualiser plan
+    ax = gca;
+    ax.XAxisLocation = 'origin';
+    hold on
+    ax.YAxisLocation = 'origin';
+    hold on
+    ax.XDir = 'normal';
+    hold on
+    ax.YDir = 'normal';
+   
+variables = {'R.A.','Dec.','z','Radio','Xray','Mi','u_mag','sig_u','g_mag','sig_g','r_mag','sig_r','i_mag','sig_i','z_mag','sig_z','J_mag','sig_J','H_mag','sig_H','K_mag','sig_K'};
+
+%plot(F(:,1),F(:,2),'.');
+biplot(F(:,1:4))
+text(F(:,1),F(:,2),variables);
+
 hold on
-[x,y] = cylinder(1,18);
-plot(x(1,:),y(1,:));
+[x,y,z] = cylinder(1,200);
+
+plot(x(1,:),y(1,:))
 hold on
+axis([-1 1 0 inf])
 
 axis equal
+ 
+ 
+ 
+ 
+% plot(P(:,1),P(:,2),'.');
+% %text(P(:,1),P(:,2),Xs);    
+% hold on
+% [x,y] = cylinder(1,18);
+% plot(x(1,:),y(1,:));
+% hold on
+% 
+% axis equal

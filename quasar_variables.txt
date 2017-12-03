@@ -1,5 +1,5 @@
-R.A. 
-Dec. 
+R_A
+Dec 
 z    
 Radio
 Xray 

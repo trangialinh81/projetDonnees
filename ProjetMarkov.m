@@ -1,5 +1,5 @@
 %----------------------------------------------------------------------%
-%-------------Auteurs : KOFFI Kouassi Sylvain et Hoai Linh TRAN -----------------%
+%-------------Auteurs : KOFFI Kouassi Sylvain et Hoai Linh TRAN -------%
 %-Projet Analyse de données - Simulation du moteur de recherche Google-%
 %--------------Année 2017-2018 - Université Paris-Sud------------------%
 %----------------------------------------------------------------------%

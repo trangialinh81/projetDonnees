@@ -1,0 +1,9 @@
+﻿Meizu MX6
+
+Le successeur du MX5, le bien nommé MX6 de Meizu, pourrait être le premier smartphone doté d’un processeur déca-core. 
+
+Le smartphone a en effet été repéré sur l’outil de benchmark Antutu. Et il semblerait que Meizu ait fait le choix d’y inclure le processeur MT6797 Helio X20, disposant de dix cœurs. Il aurait également 3 Go de RAM, 32 Go de mémoire et un GPU Mali T880. Notons la présence d’un écran 1080p de taille inconnue.
+
+Réponse lors du MWC, peut-être.
+
+pointeurvers:p3

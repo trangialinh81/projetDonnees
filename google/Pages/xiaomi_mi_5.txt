@@ -1,0 +1,21 @@
+﻿Xiaomi MI5
+
+2015 s'achèvera sans Mi 5 chez Xiaomi, mais le constructeur devrait se rattrapper en 2016 et nous sommes bien curieux de découvrir ce qu'il nous a concocté. Le marché a bien évolué depuis l'arrivée du dernier véritable haut de gamme de la start-up chinoise. Le Mi 4 est sorti en juillet 2014 et les standards de qualité ne sont clairement plus les mêmes aujourd'hui. Du retard, il en a rattrappé dans plusieurs domaines, même après le lancement, pourtant récent, du Mi 4C, mais il est en bonne voie à en juger par les derniers visuels parus sur la Toile.
+
+Cadre métallique, lecteur d'empreinte et port USB-C
+
+Les deux premiers, ci-dessus, viennent du portail Zaeke et montrent ce qui devrait être le Mi 5 de face et d'en-dessous. Première bonne nouvelle, le cadre semble être en métal. Fini le design tout plastique encore présent sur la dernière déclinaison du Mi 4. D'un autre côté, lancer un nouveau Mi en plastique quand les Redmi adoptent le métal n'aurait pas vraiment eu de sens...
+
+Un second élément intéressant apparaît ici. C'est évidemment le bouton mécanique sous l'écran, sans doute pour intégrer un lecteur d'empreinte. Notez enfin que l'habituel microUSB a été abandonné en faveur du nouveau port USB-C, placé entre les deux grilles de haut-parleurs en bas.
+
+Quatre coloris au moins pour le lancement ?
+
+La seconde série de visuels provient de TimesNews et dévoile une partie de l'arrière du Mi 5, visiblement couvert de verre et arrondi de chaque côté, en plus de l'avant. Le tout, présenté dans quatre coloris différents qui sont sans doute ceux qui seront proposés au lancement : blanc, noir, or et rose. Rappelons au passage qu'ils sont tous déjà proposés avec les Mi Note.
+
+Rien de nouveau concernant la fiche technique en revanche, mais des rappels sont à chaque fournis avec les images. Le Mi 5 est attendu avec un écran Full HD de 5,2 pouces, un Snapdragon 820 couplé à 3 ou 4 Go de RAM, entre 16 et 64 Go de mémoire interne, des appareils photo 16 et 8/13 mégapixels et une batterie d'au moins 3000 mAh. Une version Pro, avec écran QHD de 5,5 ou 5,7 pouces, est également évoquée.
+
+Les prix devraient débuter à environ 280 € en Chine, ce qui devrait en faire, comme c'est presque toujours le cas chez Xiaomi, une très bonne affaire. Il faudra malheureusement sans doute attendre le second trimestre 2016 pour en avoir le coeur net...
+
+pointeurvers:snapdragon820.txt
+
+pointeurvers:p7

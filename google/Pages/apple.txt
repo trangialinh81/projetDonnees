@@ -1,0 +1,41 @@
+﻿Apple - 5e
+
+Plusieurs mois déjà que les rumeurs et conjonctures circulent au sujet du lancement début 2016 d'un nouvel iPhone doté d'un écran de 4 pouces, soit l'ancien format du smartphone d'Apple. C'est cette fois au tour du site chinois cnBeta de livrer ses propres rumeurs basées sur des sources au sein de Foxconn, le principal sous-traitant de la firme de Cupertino.
+
+Et contrairement aux précédentes informations, ce futur terminal ne s'appellerait pas l'iPhone 6c, 7c ou même iPhone 5s Mark II. Ce nom renvoie à l'iPhone 5c, une précédente génération lancée par Apple et pensée pour être son entrée de gamme.
+
+Ce modèle n'a cependant pas laissé un souvenir impérissable. Qu'Apple puisse préférer une autre marque n'est donc pas incongru. Et d'après cnBeta, cet iPhone de 4 pouces pourrait donc s'appeler l'iPhone 5e.
+
+Toujours selon ses sources chez Foxconn, cet iPhone 5e serait une version améliorée du 5s. Il devrait d'ailleurs remplacer l'iPhone 5s à sa sortie et constituer son nouveau smartphone "d'entrée de gamme".
+
+Côté spécifications, l'iPhone 5e embarquerait un processeur 64-bits A8 et 1 Go de RAM. Rappelons que le processeur A8 équipe déjà l'iPhone 6, 6 Plus, l'iPad Mini 4, l'Apple TV 4, l'iPad Air 2 et le dernier iPod Touch.
+Processeur A8... ou A9, 1 ou 2 Go de RAM... 
+
+Les hypothèses concernant l'architecture de ce possible nouveau smartphone Apple sont toutefois largement contradictoires d'un site à un autre comme le rapporte Mac Rumors. Le japonais Mac Otakara lui attribue aussi un processeur A8, sans évoquer la RAM. Le chinois MyDrivers évoque quant à lui un processeur A9 et 2 Go de RAM.
+
+L'analyste de KGI Securities, Ming-Chi Kuo, table lui aussi sur une puce A9 dans une note aux investisseurs. Autres spéculations : une capacité de stockage de l'iPhone 5e de 16 à 64 Go, un capteur iSight de 8 mégapixels comme sur l'iPhone 5s, le support de Touch ID, Apple Pay et de la VoLTE
+
+La date de sortie et le prix enfin ? C'est vague, forcément, Apple ne faisant aucun commentaire. Un lancement en février/mars est évoqué. Quant au prix, il démarrerait aux alentours des 500 dollars.
+
+Des prix qui commencent a déranger lorsque la concurrence chinoise commence à arriver.
+
+pointeurvers:smartphone.txt
+
+pointeurvers:xiaomi_redmi_3.txt
+
+pointeurvers:zopo.txt
+
+pointeurvers:meizu_MX6.txt
+
+Rappelons qu'une rumeur court selon laquelle Apple retirera peut être la prise jack classique des ses prochains smartphones
+
+pointeurvers:apple_prise_jack.txt
+
+
+Rappelons aussi qu'Apple envisage de faire une voiture l'apple car.
+
+
+pointeurvers:p1
+
+
+

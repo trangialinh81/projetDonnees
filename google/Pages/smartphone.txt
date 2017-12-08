@@ -1,0 +1,26 @@
+﻿Smartphone
+
+Les comparatifs de la rédaction
+
+Smartphone : lequel acheter ? Comment choisir ?
+
+Android, iOS ou Windows Phone ? Ecran Amoled ou IPS ? Processeur Snapdragon ou Tegra ? Quelle résolution, quelle taille pour le capteur photo... choisir son smartphone n'est pas une mince affaire. Pour vous aider à faire votre choix la rédaction de Tom’s Guide décrypte toutes ces technologies et teste les Galaxy, Nexus, iPhone, Lumia et autres Xperia… Notre dossier est régulièrement remis à jour pour suivre les évolutions du marché et intégrer les dernières nouveautés. Alors, suivez le Guide !
+
+pointeurvers:Smartphone_bon_marche.txt
+
+Smartphone pas cher : quel téléphone choisir à moins de 200 euros ?
+
+Fini le temps où les téléphones Low Cost souffraient de la comparaison avec les smartphones les plus onéreux. Aujourd’hui, de nombreux modèles offrent des fonctionnalités proches, avec des processeurs à quatre cœurs qui assurent la fluidité du système, la compatibilité avec la dernière génération de réseau mobile, la 4G.
+
+De plus les smartphones du marché chinois commencent de plus en plus à arriver en Europe, à des prix défiants toute concurrence.
+
+pointeurvers:xiaomi_redmi_3.txt
+
+pointeurvers:xiaomi_MI5.txt
+
+pointeurvers:zopo.txt
+
+pointeurvers:p4
+
+
+

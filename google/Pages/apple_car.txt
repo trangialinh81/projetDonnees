@@ -1,0 +1,21 @@
+﻿High-Tech - Apple Car
+
+Selon le site MacRumors, Apple a déposé le mois dernier plusieurs noms de domaine liés à l'automobile. Si la firme de Cupertino a déjà un pied dans la voiture avec CarPlay, son système d'exploitation embarqué, cela confirmerait aussi un intérêt plus fort pour la conception de son propre véhicule électrique.
+​Depuis plusieurs mois, Apple semble vouloir plus que jamais diversifier ses activités. On évoque un écran de télévision et surtout une voiture. Une information est venue renforcée cette dernière rumeur. La firme de Tim Cook aurait déposé plusieurs noms de domaine liés à l'automobile : apple.auto, apple.car ou encore apple.cars.
+
+Faut-il y voir le signe d'une approche de l'Apple Car ou un déploiement plus vaste de CarPlay, la système d'exploitation OS maison pour la navigation multimédia à bord qui a déjà pris ses quartiers chez divers constructeurs automobiles ? Pour Elon Musk, le patron du constructeur de voiture électrique Tesla, c'est un "secret de Polichinelle". "C'est plutôt difficile de cacher quelque chose quand on a embauché un millier d'ingénieurs pour la développer", a confié Musk lors d'une interview à la BBC. 
+
+Apple, "le cimetière de Tesla"
+
+Du côté de Cupertino, aucune information n'a évidemment filtré sur le projet qui porterait le nom de code "Titan". La culture du secret maison. Alors, seuls les bruits qui circulent permettent de se faire une petite idée. Il s'agirait d'une voiture électrique, voire autonome à l'instar de la Google Car. Apple aurait en projet une usine géante en Irlande et a récemment débauché un spécialiste en charge de la qualité chez Fiat Chrysler, Doug Betts, comme de très nombreux anciens ingénieurs de Tesla. "Des ingénieurs importants ? Ils ont embauché des gens que nous avions virés", a lâché Musk. "Pour plaisanter, nous appelons toujours Apple 'le cimetière de Tesla'. Si vous ne réussissez pas chez Tesla, vous allez travailler chez Apple." Ambiance, ambiance...
+
+Il n'en demeure pas moins que le patron de Tesla ne voit pas d'un si mauvais œil que cela l'arrivée d'Apple sur le marché automobile et que cela pourrait "étendre l'industrie". En septembre dernier, le Wall Street Journal évoquait une feuille de route interne chez Apple évoquant un lancement dès 2019 d'un véhicule électrique autonome pouvant concurrencer Tesla, la Google Car ou la fuure voiture robot d'Uber. Lors du CES 2016, Renault-Nissan a, quant à lui, annoncé l'arrivée de sa voiture autonome dans les quatre ans.
+
+Voitures autonomes : bonne ou mauvaise nouvelle ?
+
+
+N'oublions pas qu'Apple retirera peut être la prise Jack de son prochain téléphone?
+
+pointeurvers:apple_prise_jack.txt
+
+pointeurvers:p2

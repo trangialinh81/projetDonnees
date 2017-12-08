@@ -1,0 +1,11 @@
+﻿Xiaomi Redmi 3
+
+Le Redmi 3 — à ne pas confondre avec le Redmi Note 3 — est un terminal de 5 pouces (12,7 cm) qui est habillé d'une coque en métal d'un seul tenant. Un tel matériau est déjà une petite révolution pour un terminal à ce prix. L'écran embarque une dalle — probablement IPS — HD (1280 x 720 px) pour une résolution de 293 ppp. L'afficheur occupe un peu plus de 71 % de la face avant, ce qui promet un usage à une main correct.
+
+À l'intérieur, on trouve un SoC Qualcomm Snapdragon 616 à 8 cœurs ARM Cortex A53 (4 x 1,5 GHz et 4 x 1,2 GHz), un iGPU Adreno 405 et 2 Go de RAM. La mémoire interne de 16 Go est extensible par l'ajout d'une carte microSD ; il faudra toutefois choisir entre plus de mémoire ou une seconde carte SIM. Côté photo, deux capteurs de 13 et 5 Mpx sont présents, respectivement à l'arrière et à l'avant. Le premier se pare d'une mise au point à détection de phase. Non content de promettre des performances d'un bon niveau, le Redmi 3 intègre également batterie dont la capacité — immense pour le format — est de 4000 mAh. Xiaomi annonce même une compatibilité avec la charge rapide.
+
+En positionnant ce smartphone à 700 yuans (environ 98 €), le fabricant chinois frappe un grand coup. Disponible dès demain en Chine, le Redmi 3 n'a pour l'heure pas prévu de quitter les frontières de l'Empire du Milieu. Il sera toutefois possible de l'acheter en import, tout en étant conscient de l'absence de compatibilité avec la bande de fréquence 4G des 800 MHz et de la non-intégration des services Google par défaut. 
+
+Xiaomi prévoit aussi de sortir son nouveau smartphone phare le MI5.
+
+pointeurvers:p9

@@ -1,0 +1,16 @@
+﻿Snapdragon820
+
+Si vous vous rendez sur le site officiel de Geekbench pour y consulter la base de données des résultats réalisés par son application, vous devriez être en mesure de trouver la trace laissée par le passage d’un mystérieux smartphone appelé Rain Rain A3000. Si l’identité du constructeur et celle du smartphone qui pourrait se cacher derrière cette plate-forme sont anecdotiques, ce sont les détails de cette plate-forme qui nous intéressent. Et notamment le chipset.
+
+À peine sorti, déjà mis à jour
+
+Il s’agit du MSM8996 de Qualcomm, plus communément nommé Snapdragon 820, le fameux quad-core Kryo tant attendu et récemment inclus dans un premier smartphone officiel, le LeTV LeMax Pro. Vous remarquerez, dans la ligne « processor ID » qu’il s’agit plus précisément d’une « revision 2 » du fameux chipset. Ce qui provoque une question : quelle est la différence entre cette mouture et la « revision 1 » incluse dans les smartphones de LeTV et de Xiaomi.
+
+Car les deux constructeurs chinois ne disposent aujourd’hui que de la version précédente. En effet, il suffit de taper « MSM8996 » dans le moteur de recherche de Geekbench pour trouver plusieurs plates-formes testées ces derniers mois avec le chipset. Et les fiches techniques de ces mobiles (LeTV X910, Xiaomi Gemini ou Xiaomi Mi 5) montrent la « revision 1 » du chipset. Seul le A3000 intègre la seconde.
+
+Plus performant
+
+La principale différence se situe au niveau du score en single-core (à fréquence de fonctionnement égale, soit 1,59 GHz) : toutes les plates-formes au-dessus des 2300 points sont des « revisions 2 ». Toutes les plates-formes mentionnées « revision 1 » sont en dessous des 2250 points et dépassent rarement les 2200 points. En multi-core, la différence est aussi flagrante. Les plates-formes les plus anciennes ne dépassent pas les 5200 points, tandis que les plates-formes nouvelles peuvent atteindre les 5500 (et même frôler les 5600 points). Le Rain Rain A3000 semble même faire une contre-performance, puisqu’il dépasse de peu les 5100 points. Il y a donc une différence de performances, mais elle n’est sans doute pas due à une modification hardware.
+
+En effet, nous avons appris de l’affaire Snapdragon 810, qui a agité le monde de la téléphonie l’année dernière, que les « revisions » (2, 3, etc.) sont des optimisations du firmware réalisées par Qualcomm et les constructeurs. Quand OnePlus a annoncé que le OnePlus 2 serait animé par un Snapdragon 810, Carl Pei s’est empressé de dire qu’il s’agissait d’une version 2.1 optimisée. En réponse, certains constructeurs concurrents ont expliqué que le hardware restait le même pour tout le monde et qu’il s’agissait d’une modification logicielle qui, potentiellement, pourrait même bénéficier aux anciens modèles (grâce à une mise à jour). Et cela devrait également être ainsi pour le Snapdragon 820. Sachez qu’il est courant (et Geekbench le démontre) que les chipsets soient optimisés avec le temps. Il n’y a donc aucune surprise. Seulement la satisfaction de voir que le quad-core Kryo peut encore s’améliorer dans les prochains mois.
+pointeurvers:p6

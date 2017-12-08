@@ -1,0 +1,16 @@
+﻿Zopo
+
+Le smartphone Zopo Hero 1 (à gauche) a été annoncé à 159,99 dollars, l’équivalent de 145 euros. 
+Il s’affiche même à 119,99 dollars, l’équivalent de 109 euros, en ce moment sur la boutique en ligne du constructeur
+.
+
+Pour ce prix, on bénéficie d’un processeur quad-core 1,3 GHz couplé à 2 Go de RAM (chipset MediaTek MT6735), d’un écran 5 pouces en 1 280 x 720 pixels, 
+d’un support 4G/LTE à 150 Mbit/s (toujours grâce à la solution MediaTek, sur les bandes 800/1800/2600) et de modules photo 5/13 Mégapixels. 
+On note aussi la présence d’une mémoire flash 16 Go que l’on pourra étendre grâce à un emplacement pour carte MicroSD (jusqu’à 64 Go).
+
+
+Le tout est alimenté par une batterie 2 500 mAh rechargeable via une connectique Micro-USB 
+qui procure jusqu’à 10 heures d’utilisation ou 120 heures de veille et orchestré par une ROM Android 5.1 Lollipop.
+
+
+pointeurvers:p10

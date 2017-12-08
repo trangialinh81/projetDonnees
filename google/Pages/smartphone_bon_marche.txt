@@ -1,0 +1,59 @@
+Smartphone
+
+Il est loin le temps où les téléphones low cost souffraient de la comparaison avec les smartphones les plus onéreux. Aujourd’hui, plusieurs modèles offrent des fonctionnalités proches, avec des processeurs à quatre cœurs qui suffisent à assurer une bonne fluidité de leur système. De même, la compatibilité avec la dernière génération de réseau mobile, la 4G, n’est plus réservée aux appareils les plus chers, et nombreux sont ceux sous la barre des 200 euros à la proposer.
+
+Attention toutefois : si les fiches techniques de ses smartphones pas chers comportent de nombreuses similitudes, l’expérience peut largement varier d’un téléphone à l’autre. La rédaction de Tom’s Guide a comparé de nombreux smartphones à moins de 200 euros, pour vous aider à faire votre choix et trouver le meilleur modèle.
+
+Android ou Windows Phone ?
+
+Lorsque l’on décide d’orienter son choix vers un smartphone à moins de 200 euros, il faudra choisir entre Android ou Windows Phone. Ces deux systèmes d’exploitation équipent en effet l’immense majorité des appareils. Les amateurs d’iOS seront déçus, aucun appareil signé Apple n'est commercialisé dans cette gamme de prix.
+
+Android truste la première place en matière de part de marché. Malgré sa plus faible présence, Windows Phone est un OS intéressant. Avec le temps, Microsoft a su le bonifier, tout en conservant son identité propre.
+
+Android
+
+Si Android, le système d’exploitation mobile de Google, en est aujourd’hui à sa 5e version, il est rare de voir la version la plus récente installée sur des appareils d’entrée de gamme. Lollipop est en général réservé aux appareils plus chers, mais des exceptions demeurent à l'instar du Moto G 2015.
+
+Ici, il faut plutôt s’attendre à voir Android dans sa version KitKat (4.4), qui s’avère tout à fait suffisante. Les performances ainsi que les fonctionnalités n’ont donc pas à rougir face à Lollipop. Par contre, la version précédente, Jelly Bean, caractérisée par les numéros de version 4.1 à 4.3, commence à dater. Tant qu’à faire et dans la mesure du possible, il faut alors privilégier KitKat.
+
+
+L’un des grands avantages d’Android réside dans sa personnalisation. Le système est très ouvert et permet de modifier autant l’interface que les fonctionnalités. Cet avantage peut aussi devenir un inconvénient pour les moins experts, qui pourraient être parfois perdus face à de nombreux menus, notamment dans les paramètres, qui ne sont pas toujours évidents.
+
+Mais l’argument-choc d’Android réside dans le Play Store, le magasin de Google dont le nombre d’applications dépasse le million. Et pour ceux à qui cela ne suffit pas, il est toujours possible de télécharger des fichiers d’installation .apk (qui ne sont pas dans le store officiel), sans contraintes.
+
+
+Windows Phone
+
+Depuis le lancement de sa première version, Windows Phone 8 a beaucoup évolué. Il a su s’adapter aux besoins de ses utilisateurs et surtout, s’armer face à une concurrence dont l’avance était considérable. La dernière version du système, Windows Phone 8.1, apporte de nombreuses fonctionnalités qui n’ont rien à envier à Android, telles qu’un panneau de notification, une assistance vocale performante et de nombreux logiciels spécifiques.
+
+Mais à la différence d’Android, Windows Phone ne snobe pas les appareils d’entrée de gamme. Ainsi, la grande majorité de ces téléphones, quasiment tous des Nokia, est régulièrement mise à jour au fil des versions. Ainsi, les utilisateurs ne manquent pas les dernières innovations. Cela sera toujours le cas lorsque la version mobile de Windows 10 sera disponible.
+
+L’interface atypique n’a rien à voir avec Android, ni iOS, il s’agit d’un système de tuiles qui demande un temps d’adaptation relativement court et qui permet de personnaliser son interface en fonction de ses besoins. Un atout pour séduire ceux qui ne voudraient pas avoir à naviguer dans différents panneaux et autres répertoires comme sur Android.
+
+En ce qui concerne les applications, le magasin de Microsoft est bien moins loti que ses concurrents, avec « seulement » 300 000 programmes au compteur. Si l’OS a souffert durant de nombreuses années de l’absence de certains logiciels importants, la plupart de ces gros titres sont désormais présents. 
+
+Quelle autonomie puis-je espérer ?
+
+Téléphone d’entrée de gamme n’implique pas nécessairement faible autonomie. La plupart des téléphones proposent des capacités d'au minimum 2 000 mAh, ce qui équivaut en général à une journée d’utilisation.
+
+L’autre critère qui peut faire la différence, c’est l’accessibilité de la batterie. Certains téléphones laissent un accès, ce qui ouvre la possibilité d’un remplacement lorsqu’elle est défaillante ou, plus simplement, si l’on veut avoir une batterie de réserve. Sur ce point, la donne varie d’un constructeur à l’autre et il n’existe pas vraiment de règle.
+
+S'il y a bien un smartphone d'entrée de gamme qui se démarque, c'est l’Acer Liquid E700, avec son accumulateur d’une capacité de 3 500 mAh. Il permet d'envisager deux jours d'utilisation sans difficultés. Cette valeur est d'ailleurs supérieure à ce qu'offre la plupart des smartphones haut de gamme, par exemple le LG G4, vendu plus du double.
+
+
+
+Petit prix ne veut pas dire petit écran
+
+Investir dans un smartphone à moins de 200 euros n’impose pas nécessairement de se contenter de petits écrans. Au contraire même, de plus en plus d’appareils proposent des écrans dont la taille se situe entre 4,5 et 5 pouces, soit des dimensions suffisamment généreuses pour assurer une navigation web confortable et profiter de ses contenus.
+
+En ce qui concerne la technologie utilisée par les constructeurs, il s’agit la plupart du temps d’IPS, mais leur qualité dépend d’un appareil à l’autre. Certains offrent des angles de lecture supérieurs, à l’instar d’Archos sur le 50b Helium 4G, tandis que d’autres sont moins réussis, le HTC Desire 510 par exemple.
+
+La vraie différence se fait au niveau de la définition :
+
+    Le 1080p (1920 x 1080 pixels) est réservé aux appareils de gamme supérieure.
+    Le 720p (1280 x 720 pixels) est de plus en plus répandu sur ces téléphones d'entrées de gammes. La finesse d’affichage est alors très bonne, sans atteindre celle du 1080p.
+    Le 480p est encore utilisé sur quelques rares appareils, mais la qualité d'image est alors très faible.
+
+Attention ! Certaines dalles offrent une définition intermédiaire dite qHD (par exemple, le Xperia M2 de Sony), ce qui équivaut à 960 x 540. Il ne pas la confondre avec le QHD, soit 2560 x 1440 pixels (comme sur le Galaxy S6 de Samsung). Cette définition doit être considérée comme un minimum si la qualité de l’écran est un critère important.
+
+pointeurvers:p5
